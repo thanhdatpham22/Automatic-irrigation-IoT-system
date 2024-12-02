@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Admin\Desktop\module esp32_dan\module esp32_dan\Duong_update.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=duong_update-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=duong_update-slotholes.txt|DrillLayers=gtl,gbl

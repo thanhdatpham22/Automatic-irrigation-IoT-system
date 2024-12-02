@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\Admin\Desktop\module esp32_dan\module esp32_dan\Duong_update.PcbDoc
+RuleKind=Width|RuleName=+5|Scope=Board|Minimum=35.43
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=47.24
+RuleKind=Width|RuleName=VCC|Scope=Board|Minimum=35.43
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=NET|Scope=Board|Minimum=23.62
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

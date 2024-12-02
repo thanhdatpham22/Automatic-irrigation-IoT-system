@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [hc_module_esp32_dan.PrjPcb]
+   Generated File[Duong_update-RoundHoles.TXT]
+   Generated File[Duong_update-SlotHoles.TXT]
+   Generated File[Duong_update.LDP]
+   Generated File[Duong_update.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:03:33 AM On 11/18/2023
